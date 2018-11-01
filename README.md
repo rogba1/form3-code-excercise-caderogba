@@ -1,6 +1,5 @@
 
-Design
-    See design.pdf
+
 
 Dependencies
     Spring boot
